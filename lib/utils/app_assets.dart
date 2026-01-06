@@ -1,4 +1,4 @@
 class AppAssets {
-  static const String titleImageOnBoarding = 'assets/images/Rectangle 1.png';
-
+  static const String person = 'assets/images/person.png';
+  static const String barcodeImage = 'assets/images/barcode.png';
 }
