@@ -16,6 +16,12 @@ class AppText {
     fontWeight: FontWeight.bold,
   );
 
+  static TextStyle get black18Medium => GoogleFonts.inter(
+    color: AppColors.blackColor,
+    fontSize: sp(18),
+    fontWeight: FontWeight.w500,
+  );
+
   static TextStyle get grey16Regular => GoogleFonts.inter(
     color: AppColors.greyColor,
     fontSize: sp(16),
